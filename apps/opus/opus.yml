@@ -9,5 +9,5 @@ keywords:
   - note-taking
 category: 'Productivity'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/pacocoursey/Opus/master/assets/screenshot-light.png'
+  - imageUrl: 'https://raw.githubusercontent.com/pacocoursey/Opus/master/assets/screenshot-light.png'
+disabled: true # Old Electron version: v3.0.2

@@ -3,10 +3,12 @@ description: 'Media player.'
 website: 'https://phresh-it.hu/apps/phreshplayer/'
 license: MIT
 keywords:
-    - audio
-    - video
-    - media
-    - phresh
-    - player
+  - audio
+  - video
+  - media
+  - phresh
+  - player
+  - converter
 category: 'Photo & Video'
 repository: 'https://github.com/Phreshhh/PhreshPlayer'
+disabled: true # Old Electron version: v2.0.8

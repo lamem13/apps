@@ -2,5 +2,6 @@ name: Nimble
 description: 'A simple but powerful Wolfram|Alpha menubar client for macOS'
 website: 'https://maybulb.com/nimble/'
 keywords:
-    - menubar
+  - menubar
 category: Utilities
+disabled: true # Project website not working
